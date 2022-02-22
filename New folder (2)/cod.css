@@ -1,0 +1,20 @@
+*{
+    text-decoration: none;
+}
+.aaaa{
+    background-color: cadetblue;
+    text-align:center;
+
+}
+.aereya ul li{
+    display: inline;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: chocolate;
+    
+}
+.aereya ul li :hover{
+    background-color: cornflowerblue;
+}
+
+
